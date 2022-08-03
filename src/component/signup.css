@@ -1,0 +1,52 @@
+
+
+body{
+    background-image: url(../Assets/sincerely-media-_-hjiem5TqI-unsplash.jpg);
+    background-repeat: no-repeat !important;
+    background-size: cover;
+
+}
+.container{
+    background-image: url(../Assets/zaini-izzuddin-55btQzyDiO8-unsplash.jpg);
+ 
+    margin: 100px 0px;
+    
+}
+.style{
+    display: grid;  
+}
+
+.style>input{
+width: 30%;
+padding: 12px 20px;
+}
+.style>button{
+    width: 10%;
+    padding: 12px 20px;
+   
+}
+
+
+
+
+.stapper{
+    display: flex;
+
+}
+
+.styleN{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    margin: 17px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+
+}
+.active{
+    background-color: red;
+}

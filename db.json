@@ -1,0 +1,153 @@
+{
+  "Form": [
+    {
+      "email": "Rajatgautam179@gmail.com",
+      "password": "Raj@123at",
+      "confirmPassword": "Raj@123at",
+      "id": 1
+    },
+    {
+      "email": "Rajatgautam179@gmail.com",
+      "password": "Raj@123at",
+      "confirmPassword": "Raj@123at",
+      "id": 2
+    },
+    {
+      "email": "Rajatgautam179@gmail.com",
+      "password": "rAJ@123AT",
+      "confirmPassword": "rAJ@123AT",
+      "id": 3
+    },
+    {
+      "email": "radsras@gmail.com",
+      "password": "Raj@123at",
+      "confirmPassword": "Raj@123at",
+      "id": 4
+    },
+    {
+      "email": "ravisah@gmail.com",
+      "password": "Ravi@1234",
+      "confirmPassword": "Ravi@1234",
+      "id": 5
+    }
+  ],
+  "forms2": [
+    {
+      "firstName": "Rajat",
+      "lastName": "Ambedker",
+      "userName": "RajatRJ",
+      "mobileNumber": "7056928781",
+      "gender": "male",
+      "hobbies": "singing",
+      "id": 1
+    },
+    {
+      "firstName": "Rajat",
+      "lastName": "Ambedker",
+      "userName": "RajatRJ",
+      "mobileNumber": "7056928781",
+      "gender": "male",
+      "hobbies": "singing",
+      "id": 2
+    },
+    {
+      "firstName": "Rajat",
+      "lastName": "Ambedker",
+      "userName": "RajatRJ",
+      "mobileNumber": "7056928781",
+      "gender": "male",
+      "hobbies": "Sports",
+      "id": 3
+    },
+    {
+      "firstName": "rajat",
+      "lastName": "sadasd",
+      "userName": "RajatR",
+      "mobileNumber": "7056928781",
+      "gender": "male",
+      "hobbies": "Sports",
+      "id": 4
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "Sah",
+      "userName": "Ravisah",
+      "mobileNumber": "7056928781",
+      "gender": "male",
+      "hobbies": "Sports",
+      "id": 5
+    }
+  ],
+  "forms3": [
+    {
+      "adventurerbooks": "none",
+      "comicbooks": "none",
+      "storiesbooks": "mogli",
+      "cartoonbooks": "none",
+      "warbooks": "none",
+      "ancientbooks": "none",
+      "devotionalbooks": "geeeta",
+      "lawstorybooks": "none",
+      "policestorybooks": "none",
+      "teacherstorybooks": "none",
+      "ownstorybooks": "none",
+      "id": 1
+    },
+    {
+      "adventurerbooks": "none",
+      "comicbooks": "none",
+      "storiesbooks": "mogli",
+      "cartoonbooks": "none",
+      "warbooks": "none",
+      "ancientbooks": "none",
+      "devotionalbooks": "geeeta",
+      "lawstorybooks": "none",
+      "policestorybooks": "none",
+      "teacherstorybooks": "none",
+      "ownstorybooks": "none",
+      "id": 2
+    },
+    {
+      "adventurerbooks": "DASDF",
+      "comicbooks": "ASDFAS",
+      "storiesbooks": "ADSFS",
+      "cartoonbooks": "FASDAS",
+      "warbooks": "FASFD",
+      "ancientbooks": "SFDSFS",
+      "devotionalbooks": "SFDSDF",
+      "lawstorybooks": "FSFS",
+      "policestorybooks": "FDSFS",
+      "teacherstorybooks": "FSFFS",
+      "ownstorybooks": "FSDS",
+      "id": 3
+    },
+    {
+      "adventurerbooks": "dadasd",
+      "comicbooks": "adadsa",
+      "storiesbooks": "dsadad",
+      "cartoonbooks": "sdad",
+      "warbooks": "dasdsa",
+      "ancientbooks": "dsada",
+      "devotionalbooks": "dasda",
+      "lawstorybooks": "asdsad",
+      "policestorybooks": "add",
+      "teacherstorybooks": "asdda",
+      "ownstorybooks": "dasda",
+      "id": 4
+    },
+    {
+      "adventurerbooks": "wqee",
+      "comicbooks": "qweqwe",
+      "storiesbooks": "eqweq",
+      "cartoonbooks": "ewqq",
+      "warbooks": "eqwe",
+      "ancientbooks": "qeweqwe",
+      "devotionalbooks": "eqeqw",
+      "lawstorybooks": "ewqe",
+      "policestorybooks": "eqwe",
+      "teacherstorybooks": "qwe",
+      "ownstorybooks": "ewqe",
+      "id": 5
+    }
+  ]
+}
