@@ -91,10 +91,11 @@ const ShowProduct = ()=>{
                    </p>
                    <h3 className='display-6 fw-bold my-4'>₹{product.price}</h3>
                    <p className='lead'> {product.description} </p>
-                   <button onClick={addCart}>I</button><button className="btn btn-outline-success "
-                    onClick={()=>addProduct(product)}
-                    >Add to Cart </button><button onClick={delCart}>D</button>
+                  <button className="btn btn-outline-success "
+                    // onClick={()=>addProduct(product)}
+                    >Add to Cart </button>
                     <button className="btn btn-outline-danger m-2">Go to Cart</button>
+                    <NavLink to="/IncDec">INC</NavLink>
                   </div>
            
           

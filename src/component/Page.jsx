@@ -5,8 +5,9 @@ import {
   Button,
   Nav,
   Form,
-  Carousel,
+Carousel
 } from "react-bootstrap";
+
 import "./page.css";
 import { Offcanvas } from "react-bootstrap";
 import Cart from "../Assets/cart4.svg";
@@ -179,6 +180,7 @@ function Page() {
     }
   };
   
+  
 
   return (
     <div className="backward" style={{ width: "100%", position: "inherit" }}>
@@ -281,7 +283,7 @@ function Page() {
           </Container>
         </Navbar>
       </div>
-
+    
       <Carousel>
         <Carousel.Item interval={200}>
           <a><img className="d-block w-100" height='500px'  src={img} alt="First slide" /></a>

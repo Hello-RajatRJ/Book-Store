@@ -1,5 +1,10 @@
-import {createStore} from 'redux';
-import rootReducer from './index';
 
-const store = createStore(rootReducer);
+import rootReducer from './index';
+import {combineReducers, configureStore} from '@reduxjs/toolkit';
+import handleCart from './handleCart'
+import { createStore } from '@reduxjs/toolkit';
+
+const store = createStore(rootReducer,{
+    reducer:{handleCart}
+});
 export default store; 

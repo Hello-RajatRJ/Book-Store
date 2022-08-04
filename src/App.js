@@ -17,6 +17,8 @@ import Product from "./component/Product";
 import { Routes,Route } from 'react-router-dom';
 import Preview from './component/Preview';
 import Protected from './component/Protected';
+import 'react-slideshow-image/dist/styles.css'
+import Inc from './component/Inc'
 
 const App = () => {
   return (
@@ -31,6 +33,8 @@ const App = () => {
       <Route path="/profile" element={<Profile/>}/>
       <Route path="/store" element={<Store/>}/>
       <Route path="/products/:id" element={<Product/>}/>
+      <Route path="/IncDec" element={<Inc/>}/>
+      
 
       
      

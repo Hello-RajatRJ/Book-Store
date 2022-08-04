@@ -1,12 +1,10 @@
 import handleCart from './handleCart';
-import {combineReducers} from 'redux';
-import { Reducer } from 'react';
+import {combineReducers, configureStore} from '@reduxjs/toolkit';
+
 
 
 const rootReducers = combineReducers({
-    handleCart,
-    Reducer
-
+  handleCart
    
 })
 export default rootReducers;
